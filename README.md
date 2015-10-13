@@ -1,6 +1,5 @@
 ####orangePiProjects
 =============================================
-
 A collection of OrangePi Projects on developing state.
 
 [Official page](http://www.orangepi.org)
@@ -11,11 +10,10 @@ A collection of OrangePi Projects on developing state.
 
 Compatible with Orange Pi PC version. Not tested in other.
 
-Designed for Lubuntu (Orange Pi PC version).
+Designed for Ubuntu Mate (Orange Pi PC version).
 
 Project list
 =============================================
-
 * [usefulScripts](https://github.com/adgellida/orangePiProjects/tree/master/usefulScripts)
 
 Important
