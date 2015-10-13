@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#Info here
+#http://www.orangepi.org/orangepibbsen/forum.php?mod=viewthread&tid=342
+
+#Download from here
+#https://mega.nz/#F!wh8l2BjK!OBep3nMldBletvNNwkH2Jg
+
+#sudo fdisk -l
+#sudo dd if=image_name.img of=/dev/sdX bs=1M oflag=direct 
+sudo dd if=OrangePI-PC_Ubuntu_Vivid_Mate.img of=/dev/sdc bs=1M oflag=direct
+
+#Then resize partition with gparted or "sudo fs_resize" command

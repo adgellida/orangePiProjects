@@ -13,10 +13,10 @@ Compatible with Orange Pi PC version. Not tested in other.
 
 Designed for Lubuntu (Orange Pi PC version).
 
-Instructions
+Project list
 =============================================
 
-* Developing
+* [usefulScripts](https://github.com/adgellida/orangePiProjects/tree/master/usefulScripts)
 
 Important
 =============================================

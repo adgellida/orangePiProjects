@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#You can use instead gparted
+
+sudo fs_resize
