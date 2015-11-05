@@ -8,6 +8,9 @@
 
 #sudo fdisk -l
 #sudo dd if=image_name.img of=/dev/sdX bs=1M oflag=direct 
-sudo dd if=OrangePI-PC_Ubuntu_Vivid_Mate.img of=/dev/sdc bs=1M oflag=direct
+
+#sudo dd if=OrangePI-PC_Ubuntu_Vivid_Mate.img of=/dev/sdb bs=1M oflag=direct
+#sudo dd if=Raspbian_For_OrangePi_PC_v0_8_0.img of=/dev/sdb bs=1M oflag=direct
+#sudo dd if=sun8iw7p1_android_dolphin-p1_uart0.img of=/dev/sdb bs=1M oflag=direct
 
 #Then resize partition with gparted or "sudo fs_resize" command
