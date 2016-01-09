@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#installNode
+curl -sLS https://apt.adafruit.com/add | sudo bash
+sudo apt-get install node
+#node -v
+
+#installLibraries
+#npm install node-dht-sensor onoff node-telegram-bot
+npm install onoff node-telegram-bot
+
+apt-get install zip unzip
