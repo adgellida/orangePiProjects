@@ -6,7 +6,7 @@ A collection of OrangePi Projects on developing state.
 
 [Official store](http://es.aliexpress.com/store/1553371)
 
-![](http://d2brer6wwumtdu.cloudfront.net/wp-content/uploads/2015/09/01183039/orange-pi-pc.jpg)
+<img src="http://d2brer6wwumtdu.cloudfront.net/wp-content/uploads/2015/09/01183039/orange-pi-pc.jpg" width="80">
 
 Compatible with Orange Pi PC version. Not tested in other.
 
